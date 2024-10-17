@@ -1,0 +1,215 @@
+{
+  "name": "StudioRack Registry - sfz",
+  "url": "https://studiorack.github.io/studiorack-registry/sfz.json",
+  "version": "1.0.0",
+  "objects": {
+    "freepats/glass/glasses-of-water": {
+      "id": "freepats/glass/glasses-of-water",
+      "license": "cc0-1.0",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/glass",
+          "name": "Glasses Of Water",
+          "description": "Musical instrument made with glasses of water, recorded with an AKG Perception 120 microphone.",
+          "tags": [
+            "Instrument",
+            "Orchestra",
+            "Glass",
+            "sfz"
+          ],
+          "version": "1.0.0",
+          "id": "glasses-of-water",
+          "date": "2019-12-27T07:00:00.000Z",
+          "files": {
+            "audio": {
+              "name": "Glass-20191227.flac",
+              "size": 67037
+            },
+            "image": {
+              "name": "Glass-20191227.jpg",
+              "size": 125355
+            },
+            "linux": {
+              "name": "Glass-20191227.zip",
+              "size": 10610381
+            },
+            "mac": {
+              "name": "glasses-of-water.zip",
+              "size": 10610381
+            },
+            "win": {
+              "name": "Glass-20191227.zip",
+              "size": 10610381
+            }
+          },
+          "release": "v1.0.0",
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://choosealicense.com/licenses/cc0-1.0",
+            "same": false
+          },
+          "repo": "freepats/glass"
+        }
+      }
+    },
+    "freepats/upright-piano-kw/upright-piano-kw": {
+      "id": "freepats/upright-piano-kw/upright-piano-kw",
+      "license": "cc0-1.0",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/upright-piano-KW",
+          "name": "Upright Piano KW",
+          "description": "Kawai upright piano, recorded in a living room using a Zoom H1 portable recorder mounted on a tripod in front of the piano.",
+          "tags": [
+            "Instrument",
+            "Keys",
+            "Piano",
+            "sfz"
+          ],
+          "version": "1.0.0",
+          "id": "upright-piano-kw",
+          "date": "2022-02-21T07:00:00.000Z",
+          "files": {
+            "audio": {
+              "name": "UprightPianoKW-20220221.flac",
+              "size": 64803
+            },
+            "image": {
+              "name": "UprightPianoKW-20220221.jpg",
+              "size": 87924
+            },
+            "linux": {
+              "name": "UprightPianoKW-20220221.zip",
+              "size": 32365885
+            },
+            "mac": {
+              "name": "UprightPianoKW-20220221.zip",
+              "size": 32365885
+            },
+            "win": {
+              "name": "UprightPianoKW-20220221.zip",
+              "size": 32365885
+            }
+          },
+          "release": "v1.0.0",
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://choosealicense.com/licenses/cc0-1.0",
+            "same": false
+          },
+          "repo": "freepats/upright-piano-kw"
+        }
+      }
+    },
+    "freepats/spanish-classical-guitar/spanish-classical-guitar": {
+      "id": "freepats/spanish-classical-guitar/spanish-classical-guitar",
+      "license": "cc0-1.0",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/spanish-classical-guitar",
+          "name": "Spanish Classical Guitar",
+          "description": "Spanish classical guitar with nylon strings, recorded with an AKG Perception 120 microphone.",
+          "tags": [
+            "Instrument",
+            "Guitar",
+            "Classical",
+            "sfz"
+          ],
+          "version": "1.0.0",
+          "id": "spanish-classical-guitar",
+          "date": "2019-06-18T07:00:00.000Z",
+          "files": {
+            "audio": {
+              "name": "SpanishClassicalGuitar-20190618.flac",
+              "size": 75338
+            },
+            "image": {
+              "name": "SpanishClassicalGuitar-20190618.jpg",
+              "size": 147385
+            },
+            "linux": {
+              "name": "SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            },
+            "mac": {
+              "name": "SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            },
+            "win": {
+              "name": "SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            }
+          },
+          "release": "v1.0.0",
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://choosealicense.com/licenses/cc0-1.0",
+            "same": false
+          },
+          "repo": "freepats/spanish-classical-guitar"
+        }
+      }
+    },
+    "freepats/synthesizer-percussion/synthesizer-percussion": {
+      "id": "freepats/synthesizer-percussion/synthesizer-percussion",
+      "license": "cc0-1.0",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/synthesizer-percussion",
+          "name": "Synthesizer Percussion",
+          "description": "Drumkit sounds commonly used in vintage electronic music made with analog synthesizers.",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "Electro",
+            "sfz"
+          ],
+          "version": "1.0.0",
+          "id": "synthesizer-percussion",
+          "date": "2022-07-18T07:00:00.000Z",
+          "files": {
+            "audio": {
+              "name": "SynthesizerPercussion-20220718.flac",
+              "size": 135815
+            },
+            "image": {
+              "name": "SynthesizerPercussion-20220718.jpg",
+              "size": 154466
+            },
+            "linux": {
+              "name": "SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            },
+            "mac": {
+              "name": "SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            },
+            "win": {
+              "name": "SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            }
+          },
+          "release": "v1.0.0",
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://choosealicense.com/licenses/cc0-1.0",
+            "same": false
+          },
+          "repo": "freepats/synthesizer-percussion"
+        }
+      }
+    }
+  }
+}

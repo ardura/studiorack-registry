@@ -1,0 +1,507 @@
+{
+  "name": "StudioRack Registry - effects",
+  "url": "https://studiorack.github.io/studiorack-registry/effects.json",
+  "version": "1.0.0",
+  "objects": {
+    "ryukau/vstplugins/f-d-n64-reverb": {
+      "id": "ryukau/vstplugins/f-d-n64-reverb",
+      "license": "gpl-3.0",
+      "version": "0.1.13",
+      "versions": {
+        "0.1.13": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "FDN64Reverb",
+          "description": "FDN64Reverb is a reverb equipped with a feedback delay network (FDN). However, the size of feedback matrix is 64.",
+          "tags": [
+            "Fx",
+            "Reverb"
+          ],
+          "version": "0.1.13",
+          "id": "f-d-n64-reverb",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "FDN64Reverb.flac",
+              "size": 1049623
+            },
+            "image": {
+              "name": "FDN64Reverb.png",
+              "size": 39715
+            },
+            "linux": {
+              "name": "FDN64Reverb_0.1.13.zip",
+              "size": 2806735
+            },
+            "mac": {
+              "name": "FDN64Reverb_0.1.13.zip",
+              "size": 2806735
+            },
+            "win": {
+              "name": "FDN64Reverb_0.1.13.zip",
+              "size": 2806735
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/es-phaser": {
+      "id": "ryukau/vstplugins/es-phaser",
+      "license": "gpl-3.0",
+      "version": "0.1.17",
+      "versions": {
+        "0.1.17": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "EsPhaser",
+          "description": "EsPhaser is a phaser with up to 4096 stages of order 2 Thiran all-pass filters. This is the same phaser used in EnvelopedSine.",
+          "tags": [
+            "Fx",
+            "Modulation"
+          ],
+          "version": "0.1.17",
+          "id": "es-phaser",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "EsPhaser.flac",
+              "size": 1497800
+            },
+            "image": {
+              "name": "EsPhaser.png",
+              "size": 14068
+            },
+            "linux": {
+              "name": "EsPhaser_0.1.17.zip",
+              "size": 2488465
+            },
+            "mac": {
+              "name": "EsPhaser_0.1.17.zip",
+              "size": 2488465
+            },
+            "win": {
+              "name": "EsPhaser_0.1.17.zip",
+              "size": 2488465
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/seven-delay": {
+      "id": "ryukau/vstplugins/seven-delay",
+      "license": "gpl-3.0",
+      "version": "0.1.25",
+      "versions": {
+        "0.1.25": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "SevenDelay",
+          "description": "SevenDelay is a stereo delay with 7th order lagrange interpolated fractional delay and 7x oversampling.",
+          "tags": [
+            "Fx",
+            "Delay"
+          ],
+          "version": "0.1.25",
+          "id": "seven-delay",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "SevenDelay.flac",
+              "size": 1280003
+            },
+            "image": {
+              "name": "SevenDelay.png",
+              "size": 43021
+            },
+            "linux": {
+              "name": "SevenDelay_0.1.25.zip",
+              "size": 2645090
+            },
+            "mac": {
+              "name": "SevenDelay_0.1.25.zip",
+              "size": 2645090
+            },
+            "win": {
+              "name": "SevenDelay_0.1.25.zip",
+              "size": 2645090
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/l3-reverb": {
+      "id": "ryukau/vstplugins/l3-reverb",
+      "license": "gpl-3.0",
+      "version": "0.1.17",
+      "versions": {
+        "0.1.17": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "L3Reverb",
+          "description": "L4Reverb is an extended version of LatticeReverb. This time, lattice structure has 4 * 4 * 4 * 4 = 256 sections per channel.",
+          "tags": [
+            "Fx",
+            "Reverb"
+          ],
+          "version": "0.1.17",
+          "id": "l3-reverb",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "L3Reverb.flac",
+              "size": 605291
+            },
+            "image": {
+              "name": "L3Reverb.png",
+              "size": 43045
+            },
+            "linux": {
+              "name": "L3Reverb_0.1.17.zip",
+              "size": 2783185
+            },
+            "mac": {
+              "name": "L3Reverb_0.1.17.zip",
+              "size": 2783185
+            },
+            "win": {
+              "name": "L3Reverb_0.1.17.zip",
+              "size": 2783185
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/wave-cymbal": {
+      "id": "ryukau/vstplugins/wave-cymbal",
+      "license": "gpl-3.0",
+      "version": "0.1.23",
+      "versions": {
+        "0.1.23": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "WaveCymbal",
+          "description": "WaveCymbal is an attempt to make a cymbal synthesizer with banded wave-guide model. The result is more like dragging bunch of empty cans or thin metal plate on asphalt rather than cymbal.",
+          "tags": [
+            "Fx",
+            "Instrument"
+          ],
+          "version": "0.1.23",
+          "id": "wave-cymbal",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "WaveCymbal.flac",
+              "size": 1805740
+            },
+            "image": {
+              "name": "WaveCymbal.png",
+              "size": 36135
+            },
+            "linux": {
+              "name": "WaveCymbal_0.1.23.zip",
+              "size": 2656968
+            },
+            "mac": {
+              "name": "WaveCymbal_0.1.23.zip",
+              "size": 2656968
+            },
+            "win": {
+              "name": "WaveCymbal_0.1.23.zip",
+              "size": 2656968
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/lattice-reverb": {
+      "id": "ryukau/vstplugins/lattice-reverb",
+      "license": "gpl-3.0",
+      "version": "0.1.20",
+      "versions": {
+        "0.1.20": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "LatticeReverb",
+          "description": "LatticeReverb is a reverb using lattice structure. Equipped with 16 delays per channel.",
+          "tags": [
+            "Fx",
+            "Reverb"
+          ],
+          "version": "0.1.20",
+          "id": "lattice-reverb",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "LatticeReverb.flac",
+              "size": 328632
+            },
+            "image": {
+              "name": "LatticeReverb.png",
+              "size": 36407
+            },
+            "linux": {
+              "name": "LatticeReverb_0.1.20.zip",
+              "size": 2793533
+            },
+            "mac": {
+              "name": "LatticeReverb_0.1.20.zip",
+              "size": 2793533
+            },
+            "win": {
+              "name": "LatticeReverb_0.1.20.zip",
+              "size": 2793533
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/l4-reverb": {
+      "id": "ryukau/vstplugins/l4-reverb",
+      "license": "gpl-3.0",
+      "version": "0.1.17",
+      "versions": {
+        "0.1.17": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "L4Reverb",
+          "description": "L4Reverb is an extended version of LatticeReverb. This time, lattice structure has 4 * 4 * 4 * 4 = 256 sections per channel.",
+          "tags": [
+            "Fx",
+            "Reverb"
+          ],
+          "version": "0.1.17",
+          "id": "l4-reverb",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "L4Reverb.flac",
+              "size": 611850
+            },
+            "image": {
+              "name": "L4Reverb.png",
+              "size": 44220
+            },
+            "linux": {
+              "name": "L4Reverb_0.1.17.zip",
+              "size": 2772696
+            },
+            "mac": {
+              "name": "L4Reverb_0.1.17.zip",
+              "size": 2772696
+            },
+            "win": {
+              "name": "L4Reverb_0.1.17.zip",
+              "size": 2772696
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/basic-limiter": {
+      "id": "ryukau/vstplugins/basic-limiter",
+      "license": "gpl-3.0",
+      "version": "0.1.16",
+      "versions": {
+        "0.1.16": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "BasicLimiter",
+          "description": "BasicLimiter is a basic single band limiter. The sound is nothing new, but the design of true peak mode is a bit luxurious.",
+          "tags": [
+            "Fx",
+            "Dynamics"
+          ],
+          "version": "0.1.16",
+          "id": "basic-limiter",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "BasicLimiter.flac",
+              "size": 1736593
+            },
+            "image": {
+              "name": "BasicLimiter.png",
+              "size": 14414
+            },
+            "linux": {
+              "name": "BasicLimiter_0.1.16.zip",
+              "size": 2542098
+            },
+            "mac": {
+              "name": "BasicLimiter_0.1.16.zip",
+              "size": 2542098
+            },
+            "win": {
+              "name": "BasicLimiter_0.1.16.zip",
+              "size": 2542098
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/basic-limiter-auto-make": {
+      "id": "ryukau/vstplugins/basic-limiter-auto-make",
+      "license": "gpl-3.0",
+      "version": "0.1.16",
+      "versions": {
+        "0.1.16": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "BasicLimiterAutoMake",
+          "description": "BasicLimiter is a basic single band limiter. The sound is nothing new, but the design of true peak mode is a bit luxurious.",
+          "tags": [
+            "Fx",
+            "Dynamics"
+          ],
+          "version": "0.1.16",
+          "id": "basic-limiter-auto-make",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "BasicLimiterAutoMake.flac",
+              "size": 276981
+            },
+            "image": {
+              "name": "BasicLimiterAutoMake.png",
+              "size": 18293
+            },
+            "linux": {
+              "name": "BasicLimiterAutoMake_0.1.16.zip",
+              "size": 2559497
+            },
+            "mac": {
+              "name": "BasicLimiterAutoMake_0.1.16.zip",
+              "size": 2559497
+            },
+            "win": {
+              "name": "BasicLimiterAutoMake_0.1.16.zip",
+              "size": 2559497
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/f-d-n-cymbal": {
+      "id": "ryukau/vstplugins/f-d-n-cymbal",
+      "license": "gpl-3.0",
+      "version": "0.2.16",
+      "versions": {
+        "0.2.16": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "FDNCymbal",
+          "description": "FDNCymbal is a cymbal sound synthesizer. It can also be used as an effect. Unlike the name, most of metallic texture comes from Schroeder allpass section rather than FDN (feedback delay network). FDN section makes nice impact sound when `FDN.Time` is short. Tremolo is added to simulate wobbling of cymbal.",
+          "tags": [
+            "Fx",
+            "Instrument"
+          ],
+          "version": "0.2.16",
+          "id": "f-d-n-cymbal",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "FDNCymbal.flac",
+              "size": 1546996
+            },
+            "image": {
+              "name": "FDNCymbal.png",
+              "size": 45637
+            },
+            "linux": {
+              "name": "FDNCymbal_0.2.16.zip",
+              "size": 2708103
+            },
+            "mac": {
+              "name": "FDNCymbal_0.2.16.zip",
+              "size": 2708103
+            },
+            "win": {
+              "name": "FDNCymbal_0.2.16.zip",
+              "size": 2708103
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,983 @@
+{
+  "name": "StudioRack Registry - sfz",
+  "url": "https://studiorack.github.io/studiorack-registry/v2/sfz.json",
+  "version": "2.0.0",
+  "objects": {
+    "freepats/glasses-of-water": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Glasses Of Water",
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/glass",
+          "description": "Musical instrument made with glasses of water, recorded with an AKG Perception 120 microphone.",
+          "date": "2019-12-27T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Orchestra",
+            "Glass",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/glasses-of-water/Glass-20191227.flac",
+              "size": 67037
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/glasses-of-water/Glass-20191227.jpg",
+              "size": 125355
+            },
+            "linux": {
+              "url": "https://github.com/freepats/glass/releases/download/v1.0.0/Glass-20191227.zip",
+              "size": 10610381
+            },
+            "mac": {
+              "url": "https://github.com/freepats/glass/releases/download/v1.0.0/Glass-20191227.zip",
+              "size": 10610381
+            },
+            "win": {
+              "url": "https://github.com/freepats/glass/releases/download/v1.0.0/Glass-20191227.zip",
+              "size": 10610381
+            }
+          }
+        }
+      }
+    },
+    "freepats/upright-piano-kw": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Upright Piano KW",
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/upright-piano-kw",
+          "description": "Kawai upright piano, recorded in a living room using a Zoom H1 portable recorder mounted on a tripod in front of the piano.",
+          "date": "2022-02-21T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Keys",
+            "Piano",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/upright-piano-kw/UprightPianoKW-20220221.flac",
+              "size": 64803
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/upright-piano-kw/UprightPianoKW-20220221.jpg",
+              "size": 87924
+            },
+            "linux": {
+              "url": "https://github.com/freepats/upright-piano-kw/releases/download/v1.0.0/UprightPianoKW-20220221.zip",
+              "size": 32365885
+            },
+            "mac": {
+              "url": "https://github.com/freepats/upright-piano-kw/releases/download/v1.0.0/UprightPianoKW-20220221.zip",
+              "size": 32365885
+            },
+            "win": {
+              "url": "https://github.com/freepats/upright-piano-kw/releases/download/v1.0.0/UprightPianoKW-20220221.zip",
+              "size": 32365885
+            }
+          }
+        }
+      }
+    },
+    "freepats/spanish-classical-guitar": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Spanish Classical Guitar",
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/spanish-classical-guitar",
+          "description": "Spanish classical guitar with nylon strings, recorded with an AKG Perception 120 microphone.",
+          "date": "2019-06-18T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Guitar",
+            "Classical",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/spanish-classical-guitar/SpanishClassicalGuitar-20190618.flac",
+              "size": 75338
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/spanish-classical-guitar/SpanishClassicalGuitar-20190618.jpg",
+              "size": 147385
+            },
+            "linux": {
+              "url": "https://github.com/freepats/spanish-classical-guitar/releases/download/v1.0.0/SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            },
+            "mac": {
+              "url": "https://github.com/freepats/spanish-classical-guitar/releases/download/v1.0.0/SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            },
+            "win": {
+              "url": "https://github.com/freepats/spanish-classical-guitar/releases/download/v1.0.0/SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            }
+          }
+        }
+      }
+    },
+    "freepats/synthesizer-percussion": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Synthesizer Percussion",
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/synthesizer-percussion",
+          "description": "Drumkit sounds commonly used in vintage electronic music made with analog synthesizers.",
+          "date": "2022-07-18T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "Electro",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/synthesizer-percussion/SynthesizerPercussion-20220718.flac",
+              "size": 135815
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/synthesizer-percussion/SynthesizerPercussion-20220718.jpg",
+              "size": 154466
+            },
+            "linux": {
+              "url": "https://github.com/freepats/synthesizer-percussion/releases/download/v1.0.0/SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            },
+            "mac": {
+              "url": "https://github.com/freepats/synthesizer-percussion/releases/download/v1.0.0/SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            },
+            "win": {
+              "url": "https://github.com/freepats/synthesizer-percussion/releases/download/v1.0.0/SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            }
+          }
+        }
+      }
+    },
+    "studiorack/war-tuba": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "War Tuba",
+          "author": "DSmolken",
+          "homepage": "https://github.com/sfzinstruments/karoryfer.war-tuba",
+          "description": "Tuba played by Jakub Lewicki (aka Ignacy Woland of the band Hañba).",
+          "date": "2021-09-03T07:00:00.000Z",
+          "license": "cc-by-4.0",
+          "tags": [
+            "Instrument",
+            "Brass",
+            "Tuba",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/war-tuba/war-tuba.flac",
+              "size": 88482
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/war-tuba/war-tuba.jpg",
+              "size": 69063
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/war-tuba/releases/download/v1.0.0/war-tuba.zip",
+              "size": 35601312
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/war-tuba/releases/download/v1.0.0/war-tuba.zip",
+              "size": 35601312
+            },
+            "win": {
+              "url": "https://github.com/studiorack/war-tuba/releases/download/v1.0.0/war-tuba.zip",
+              "size": 35601312
+            }
+          }
+        }
+      }
+    },
+    "studiorack/virtuosity-drums": {
+      "version": "0.9.23",
+      "versions": {
+        "0.9.23": {
+          "name": "Virtuosity Drums",
+          "author": "Versilian Studios",
+          "homepage": "https://github.com/sfzinstruments/virtuosity_drums",
+          "description": "Contemporary Jazz drum kit library, performed with sticks, recorded at Virtuosity Musical Instruments in Boston, MA.",
+          "date": "2021-11-08T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "Jazz",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/virtuosity-drums/virtuosity-drums.flac",
+              "size": 821118
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/virtuosity-drums/virtuosity-drums.jpg",
+              "size": 73357
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/virtuosity-drums/releases/download/v0.9.23/virtuosity-drums.zip",
+              "size": 1224065679
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/virtuosity-drums/releases/download/v0.9.23/virtuosity-drums.zip",
+              "size": 1224065679
+            },
+            "win": {
+              "url": "https://github.com/studiorack/virtuosity-drums/releases/download/v0.9.23/virtuosity-drums.zip",
+              "size": 1224065679
+            }
+          }
+        },
+        "0.9.22": {
+          "name": "Virtuosity Drums",
+          "author": "Versilian Studios",
+          "homepage": "https://github.com/sfzinstruments/virtuosity_drums",
+          "description": "Contemporary Jazz drum kit library, performed with sticks, recorded at Virtuosity Musical Instruments in Boston, MA.",
+          "date": "2021-11-08T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "Jazz",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/virtuosity-drums/virtuosity-drums.flac",
+              "size": 821118
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/virtuosity-drums/virtuosity-drums.jpg",
+              "size": 73357
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/virtuosity-drums/releases/download/v0.9.22/virtuosity-drums.zip",
+              "size": 618693714
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/virtuosity-drums/releases/download/v0.9.22/virtuosity-drums.zip",
+              "size": 618693714
+            },
+            "win": {
+              "url": "https://github.com/studiorack/virtuosity-drums/releases/download/v0.9.22/virtuosity-drums.zip",
+              "size": 618693714
+            }
+          }
+        }
+      }
+    },
+    "studiorack/sams-sonor": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Sam's Sonor",
+          "author": "Sam Greene",
+          "homepage": "https://github.com/sfzinstruments/SamsSonor",
+          "description": "Sonor Force 3001 drum kit sampled with 4 velocity levels for each part.",
+          "date": "2021-08-21T07:00:00.000Z",
+          "license": "cc-by-sa-4.0",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "Kit",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/sams-sonor/sams-sonor.flac",
+              "size": 207120
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/sams-sonor/sams-sonor.jpg",
+              "size": 239836
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
+              "size": 36642874
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
+              "size": 36642874
+            },
+            "win": {
+              "url": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
+              "size": 36642874
+            }
+          }
+        }
+      }
+    },
+    "studiorack/salamander-grand-piano": {
+      "version": "3.0.0",
+      "versions": {
+        "3.0.0": {
+          "name": "Salamander Grand Piano",
+          "author": "Alexander Holm",
+          "homepage": "https://github.com/sfzinstruments/SalamanderGrandPiano",
+          "description": "Yamaha C5, recorded with two AKG c414 disposed in an AB position ~12cm above the strings.",
+          "date": "2021-09-20T07:00:00.000Z",
+          "license": "cc-by-4.0",
+          "tags": [
+            "Instrument",
+            "Piano",
+            "Yamaha",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/salamander-grand-piano/salamander-grand-piano.flac",
+              "size": 365662
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/salamander-grand-piano/salamander-grand-piano.jpg",
+              "size": 88748
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/salamander-grand-piano/releases/download/v3.0.0/salamander-grand-piano.zip",
+              "size": 748416023
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/salamander-grand-piano/releases/download/v3.0.0/salamander-grand-piano.zip",
+              "size": 748416023
+            },
+            "win": {
+              "url": "https://github.com/studiorack/salamander-grand-piano/releases/download/v3.0.0/salamander-grand-piano.zip",
+              "size": 748416023
+            }
+          }
+        }
+      }
+    },
+    "studiorack/naked-drums": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Naked Drums",
+          "author": "Wilkinson Audio",
+          "homepage": "https://github.com/sfzinstruments/WilkinsonAudio.NakedDrums",
+          "description": "Multi-mic drumkit, with 10 round-robins, up to 5 velocity layers and several mic layers (Direct, OH, Close room, Far rooms, Mid-side and Wide OH).",
+          "date": "2021-11-08T07:00:00.000Z",
+          "license": "cc-by-4.0",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/naked-drums/naked-drums.flac",
+              "size": 553525
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/naked-drums/naked-drums.jpg",
+              "size": 24452
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.zip",
+              "size": 1283342538
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.zip",
+              "size": 1283342538
+            },
+            "win": {
+              "url": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.zip",
+              "size": 1283342538
+            }
+          }
+        }
+      }
+    },
+    "studiorack/jsteeldrum": {
+      "version": "2.0.0",
+      "versions": {
+        "2.0.0": {
+          "name": "jSteelDrum",
+          "author": "Jeff Learman",
+          "homepage": "https://github.com/sfzinstruments/jlearman.SteelDrum",
+          "description": "C Steel Drum (a.k.a. 'steel pan') hand-made in Trinidad.",
+          "date": "2022-09-22T07:00:00.000Z",
+          "license": "unlicense",
+          "tags": [
+            "Instrument",
+            "Steel",
+            "Drum",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/jsteeldrum/jsteel-drum.flac",
+              "size": 83358
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/jsteeldrum/jsteel-drum.jpg",
+              "size": 222224
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/jsteeldrum/releases/download/v2.0.0/jsteel-drum.zip",
+              "size": 38363496
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/jsteeldrum/releases/download/v2.0.0/jsteel-drum.zip",
+              "size": 38363496
+            },
+            "win": {
+              "url": "https://github.com/studiorack/jsteeldrum/releases/download/v2.0.0/jsteel-drum.zip",
+              "size": 38363496
+            }
+          }
+        }
+      }
+    },
+    "studiorack/jrhodes-3c": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "jRhodes3c",
+          "author": "Jeff Learman",
+          "homepage": "https://github.com/sfzinstruments/jlearman.jRhodes3c",
+          "description": "1977 Rhodes Mark I Stage 73 piano",
+          "date": "2022-01-02T07:00:00.000Z",
+          "license": "cc-by-sa-4.0",
+          "tags": [
+            "Instrument",
+            "Keys",
+            "Rhodes",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/jrhodes-3c/jrhodes-3c.flac",
+              "size": 64422
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/jrhodes-3c/jrhodes-3c.jpg",
+              "size": 283376
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/jrhodes-3c/releases/download/v1.0.0/jrhodes-3c.zip",
+              "size": 17073884
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/jrhodes-3c/releases/download/v1.0.0/jrhodes-3c.zip",
+              "size": 17073884
+            },
+            "win": {
+              "url": "https://github.com/studiorack/jrhodes-3c/releases/download/v1.0.0/jrhodes-3c.zip",
+              "size": 17073884
+            }
+          }
+        }
+      }
+    },
+    "studiorack/hungarian-zither": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Hungarian Zither",
+          "author": "DSmolken",
+          "homepage": "https://github.com/sfzinstruments/hungarian_zither",
+          "description": "Hungarian 'prime' zither. A rectangular instrument with over a dozen strings, mostly tuned to G, with two melody courses and the rest as drones.",
+          "date": "2022-09-13T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Strings",
+            "Classical",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/hungarian-zither/hungarian-zither.flac",
+              "size": 172274
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/hungarian-zither/hungarian-zither.jpg",
+              "size": 88693
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/hungarian-zither/releases/download/v1.0.0/hungarian-zither.zip",
+              "size": 181711154
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/hungarian-zither/releases/download/v1.0.0/hungarian-zither.zip",
+              "size": 181711154
+            },
+            "win": {
+              "url": "https://github.com/studiorack/hungarian-zither/releases/download/v1.0.0/hungarian-zither.zip",
+              "size": 181711154
+            }
+          }
+        }
+      }
+    },
+    "studiorack/horse-pulse": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Horse Pulse",
+          "author": "DSmolken",
+          "homepage": "https://github.com/sfzinstruments/Karoryfer.HorsePulse",
+          "description": "Bass Tagelharpa played pizzicato",
+          "date": "2022-03-31T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "String",
+            "Pluck",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/horse-pulse/horse-pulse.flac",
+              "size": 58263
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/horse-pulse/horse-pulse.jpg",
+              "size": 92078
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
+              "size": 74462529
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
+              "size": 74462529
+            },
+            "win": {
+              "url": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
+              "size": 74462529
+            }
+          }
+        }
+      }
+    },
+    "studiorack/double-bass": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Double Bass",
+          "author": "DSmolken",
+          "homepage": "https://github.com/sfzinstruments/dsmolken.double-bass",
+          "description": "1958 Otto Rubner double bass played arco and pizzicato with additional miscellaneous noises.",
+          "date": "2021-10-07T07:00:00.000Z",
+          "license": "cc-by-4.0",
+          "tags": [
+            "Instrument",
+            "String",
+            "Bass",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/double-bass/double-bass.flac",
+              "size": 77117
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/double-bass/double-bass.jpg",
+              "size": 45157
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/double-bass/releases/download/v1.0.0/double-bass.zip",
+              "size": 79014147
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/double-bass/releases/download/v1.0.0/double-bass.zip",
+              "size": 79014147
+            },
+            "win": {
+              "url": "https://github.com/studiorack/double-bass/releases/download/v1.0.0/double-bass.zip",
+              "size": 79014147
+            }
+          }
+        }
+      }
+    },
+    "studiorack/black-and-green-guitars": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Black and Green Guitars",
+          "author": "DSmolken",
+          "homepage": "https://github.com/sfzinstruments/karoryfer.black-and-green-guitars",
+          "description": "Black Hofner Club and Green Gretsch Anniversary electric guitars",
+          "date": "2022-08-08T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Guitar",
+            "Electric",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/black-and-green-guitars/black-and-green-guitars.flac",
+              "size": 64823
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/black-and-green-guitars/black-and-green-guitars.jpg",
+              "size": 100550
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
+              "size": 292323008
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
+              "size": 292323008
+            },
+            "win": {
+              "url": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
+              "size": 292323008
+            }
+          }
+        }
+      }
+    },
+    "studiorack/bear-sax": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Bear Sax",
+          "author": "DSmolken",
+          "homepage": "https://github.com/sfzinstruments/karoryfer.bear-sax",
+          "description": "1926 Conn baritone saxophone including sustained notes and breath noise.",
+          "date": "2021-09-11T07:00:00.000Z",
+          "license": "cc-by-4.0",
+          "tags": [
+            "Instrument",
+            "Brass",
+            "Saxophone",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/bear-sax/bear-sax.flac",
+              "size": 86918
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/bear-sax/bear-sax.jpg",
+              "size": 85425
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/bear-sax/releases/download/v1.0.0/bear-sax.zip",
+              "size": 70617479
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/bear-sax/releases/download/v1.0.0/bear-sax.zip",
+              "size": 70617479
+            },
+            "win": {
+              "url": "https://github.com/studiorack/bear-sax/releases/download/v1.0.0/bear-sax.zip",
+              "size": 70617479
+            }
+          }
+        }
+      }
+    },
+    "studiorack/basic-harmonica": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Basic Harmonica",
+          "author": "michael02022",
+          "homepage": "https://github.com/michael02022/basic-harmonica",
+          "description": "Basic harmonica.",
+          "date": "2022-10-07T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Wind",
+            "Harmonica",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/basic-harmonica/basic-harmonica.flac",
+              "size": 100197
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/basic-harmonica/basic-harmonica.jpg",
+              "size": 65716
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.zip",
+              "size": 1404185
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.zip",
+              "size": 1404185
+            },
+            "win": {
+              "url": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.zip",
+              "size": 1404185
+            }
+          }
+        }
+      }
+    },
+    "studiorack/avl-percussions": {
+      "version": "1.1.0",
+      "versions": {
+        "1.1.0": {
+          "name": "AVL Percussions",
+          "author": "Glen MacArthur",
+          "homepage": "https://github.com/studiorack/avl-percussions",
+          "description": "11 percussions instruments (Cajon, Woodblock, Handclap, Fingersnap, Bongos, Maracas, Tambourine, Cowbell, Claves, Waterglass) recorded with 5 velocity layers per piece.",
+          "date": "2022-02-21T07:00:00.000Z",
+          "license": "cc-by-sa-4.0",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "Percussions",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/avl-percussions/avl-percussions.flac",
+              "size": 193990
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/avl-percussions/avl-percussions.jpg",
+              "size": 159466
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/avl-percussions/releases/download/v1.1.0/avl-percussions.zip",
+              "size": 1730506
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/avl-percussions/releases/download/v1.1.0/avl-percussions.zip",
+              "size": 1730506
+            },
+            "win": {
+              "url": "https://github.com/studiorack/avl-percussions/releases/download/v1.1.0/avl-percussions.zip",
+              "size": 1730506
+            }
+          }
+        }
+      }
+    },
+    "studiorack/avl-drumkits": {
+      "version": "1.1.0",
+      "versions": {
+        "1.1.0": {
+          "name": "AVL Drumkits",
+          "author": "Glen MacArthur",
+          "homepage": "https://github.com/studiorack/avl-drumkits",
+          "description": "Black Pearl and Red Zepplin drumkits recorded with 5 velocity layers per kit piece.",
+          "date": "2022-02-20T07:00:00.000Z",
+          "license": "cc-by-sa-4.0",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/avl-drumkits/avl-drumkits.flac",
+              "size": 696023
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/studiorack/avl-drumkits/avl-drumkits.jpg",
+              "size": 326339
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/avl-drumkits/releases/download/v1.1.0/avl-drumkits.zip",
+              "size": 16017234
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/avl-drumkits/releases/download/v1.1.0/avl-drumkits.zip",
+              "size": 16017234
+            },
+            "win": {
+              "url": "https://github.com/studiorack/avl-drumkits/releases/download/v1.1.0/avl-drumkits.zip",
+              "size": 16017234
+            }
+          }
+        }
+      }
+    },
+    "sfzinstruments/splendidgrandpiano": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Splendid Grand Piano",
+          "author": "Akai",
+          "homepage": "https://github.com/sfzinstruments/splendidgrandpiano",
+          "description": "Steinway piano with 4 velocity layers",
+          "date": "2022-01-02T07:00:00.000Z",
+          "license": "bsd-2-clause",
+          "tags": [
+            "Instrument",
+            "Keys",
+            "Piano",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/sfzinstruments/splendidgrandpiano/splendid-grand-piano.flac",
+              "size": 69723
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/sfzinstruments/splendidgrandpiano/splendid-grand-piano.jpg",
+              "size": 171264
+            },
+            "linux": {
+              "url": "https://github.com/sfzinstruments/SplendidGrandPiano/archive/refs/heads/master.zip",
+              "size": 74736682
+            },
+            "mac": {
+              "url": "https://github.com/sfzinstruments/SplendidGrandPiano/archive/refs/heads/master.zip",
+              "size": 74736682
+            },
+            "win": {
+              "url": "https://github.com/sfzinstruments/SplendidGrandPiano/archive/refs/heads/master.zip",
+              "size": 74736682
+            }
+          }
+        }
+      }
+    },
+    "open-soundfonts/virtual-playing-orchestra": {
+      "version": "3.3.2",
+      "versions": {
+        "3.3.2": {
+          "name": "Virtual Playing Orchestra",
+          "author": "Paul Battersby",
+          "homepage": "https://github.com/open-soundfonts/Virtual_Playing_Orchestra_3",
+          "description": "Orchestral sample library featuring section and solo instruments for woodwinds, brass, strings and percussion",
+          "date": "2020-10-17T00:00:00.000Z",
+          "license": "gpl-3.0",
+          "tags": [
+            "Instrument",
+            "Orchestral",
+            "Strings",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/open-soundfonts/virtual-playing-orchestra/virtual-playing-orchestra.flac",
+              "size": 137127
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/open-soundfonts/virtual-playing-orchestra/virtual-playing-orchestra.jpg",
+              "size": 79890
+            },
+            "linux": {
+              "url": "https://github.com/open-soundfonts/Virtual_Playing_Orchestra_3/archive/refs/heads/master.zip",
+              "size": 618138108
+            },
+            "mac": {
+              "url": "https://github.com/open-soundfonts/Virtual_Playing_Orchestra_3/archive/refs/heads/master.zip",
+              "size": 618138108
+            },
+            "win": {
+              "url": "https://github.com/open-soundfonts/Virtual_Playing_Orchestra_3/archive/refs/heads/master.zip",
+              "size": 618138108
+            }
+          }
+        }
+      }
+    },
+    "freepats/hang-d-minor": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Hang D Minor",
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/hang-d-minor",
+          "description": "Pitched steel percussion instrument tuned in D minor, recorded using a Zoom H1 portable recorder mounted on a tripod.",
+          "date": "2022-03-30T07:00:00.000Z",
+          "license": "cc0-1.0",
+          "tags": [
+            "Instrument",
+            "Orchestra",
+            "Hang",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/hang-d-minor/Hang-D-minor-20220330.flac",
+              "size": 78343
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/freepats/hang-d-minor/Hang-D-minor-20220330.jpg",
+              "size": 43408
+            },
+            "linux": {
+              "url": "https://github.com/freepats/hang-d-minor/releases/download/v1.0.0/Hang-D-minor-20220330.zip",
+              "size": 13369709
+            },
+            "mac": {
+              "url": "https://github.com/freepats/hang-d-minor/releases/download/v1.0.0/Hang-D-minor-20220330.zip",
+              "size": 13369709
+            },
+            "win": {
+              "url": "https://github.com/freepats/hang-d-minor/releases/download/v1.0.0/Hang-D-minor-20220330.zip",
+              "size": 13369709
+            }
+          }
+        }
+      }
+    },
+    "endolith/salamander-drumkit": {
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Salamander Drumkit",
+          "author": "Rytmenpinne",
+          "homepage": "https://github.com/endolith/salamander-drumkit",
+          "description": "Drumkit recorded in the garage with an acoustic sound/feel.",
+          "date": "2012-02-25T07:00:00.000Z",
+          "license": "cc-by-sa-4.0",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "sfz"
+          ],
+          "files": {
+            "audio": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/endolith/salamander-drumkit/salamander-drumkit.flac",
+              "size": 162704
+            },
+            "image": {
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/endolith/salamander-drumkit/salamander-drumkit.jpg",
+              "size": 94023
+            },
+            "linux": {
+              "url": "https://github.com/studiorack/salamander-drumkit/releases/download/v1.0.0/salamander-drumkit.zip",
+              "size": 269599176
+            },
+            "mac": {
+              "url": "https://github.com/studiorack/salamander-drumkit/releases/download/v1.0.0/salamander-drumkit.zip",
+              "size": 269599176
+            },
+            "win": {
+              "url": "https://github.com/studiorack/salamander-drumkit/releases/download/v1.0.0/salamander-drumkit.zip",
+              "size": 269599176
+            }
+          }
+        }
+      }
+    }
+  }
+}

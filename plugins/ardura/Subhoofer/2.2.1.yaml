@@ -1,0 +1,23 @@
+---
+name: Subhoofer
+author: Ardura
+homepage: https://github.com/ardura/Subhoofer
+description: Sub and Bass enhancement plugin
+date: 2024-07-12T07:00:00.000Z
+license: gpl-3.0
+tags:
+  - Effect
+  - Distortion
+files:
+  image:
+    name: https://studiorack.github.io/studiorack-registry/plugins/ardura/Subhoofer/subhoofer.jpg
+    size: 60446
+  linux:
+    name: https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_Linux.zip
+    size: 5904422
+  mac:
+    name: https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_MacOS.zip
+    size: 3895684
+  win:
+    name: https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_Windows.zip
+    size: 3334010

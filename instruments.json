@@ -1,0 +1,1455 @@
+{
+  "name": "StudioRack Registry - instruments",
+  "url": "https://studiorack.github.io/studiorack-registry/instruments.json",
+  "version": "1.0.0",
+  "objects": {
+    "vastdynamics/vaporizer2/com.vastdynamics.vast2": {
+      "id": "vastdynamics/vaporizer2/com.vastdynamics.vast2",
+      "license": "gpl-3.0",
+      "version": "3.5.0",
+      "versions": {
+        "3.5.0": {
+          "author": "VAST Dynamics",
+          "homepage": "https://www.vast-dynamics.com/",
+          "name": "Vaporizer2",
+          "description": "Hybrid wavetable additive / subtractive VST / AU / AAX / CLAP / LV2 synthesizer / sampler workstation",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Sampler",
+            "Wavetable Editor"
+          ],
+          "version": "3.5.0",
+          "id": "com.vastdynamics.vast2",
+          "date": "2024-03-02T00:00:00.000Z",
+          "files": {
+            "win": {
+              "name": "https://github.com/VASTDynamics/Vaporizer2/releases/download/v3.5.0/Vaporizer2_installer_win_3.5.0.zip",
+              "size": 421509729
+            },
+            "linux": {
+              "name": "https://software.opensuse.org/download.html?project=multimedia%3Aproaudio&package=vaporizer2",
+              "size": 1
+            },
+            "mac": {
+              "name": "https://github.com/VASTDynamics/Vaporizer2/releases/download/v3.5.0/Vaporizer2_installer_OSX64_3.5.0.zip",
+              "size": 636191008
+            },
+            "audio": {
+              "name": "https://github.com/VASTDynamics/Vaporizer2/releases/download/v3.5.0/Vaporizer2_3.5.0_Preset_Teaser.mp3",
+              "size": 1893160
+            },
+            "image": {
+              "name": "https://github.com/VASTDynamics/Vaporizer2/blob/main/Artwork/vapo2box_neu_2_large.png?raw=true",
+              "size": 2469146
+            }
+          },
+          "release": "v3.5.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "vastdynamics/vaporizer2"
+        }
+      }
+    },
+    "ryukau/vstplugins/iterative-sin-cluster": {
+      "id": "ryukau/vstplugins/iterative-sin-cluster",
+      "license": "gpl-3.0",
+      "version": "0.1.24",
+      "versions": {
+        "0.1.24": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "IterativeSinCluster",
+          "description": "IterativeSinCluster is an additive synthesizer. This synth computes 512 sine waves for each note to make tone cluster. I somehow thought \"iterative sin\" is a valid term. Correct term is \"recursive sine\".",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "0.1.24",
+          "id": "iterative-sin-cluster",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "IterativeSinCluster.flac",
+              "size": 1489884
+            },
+            "image": {
+              "name": "IterativeSinCluster.png",
+              "size": 61133
+            },
+            "linux": {
+              "name": "IterativeSinCluster_0.1.24.zip",
+              "size": 2799100
+            },
+            "mac": {
+              "name": "IterativeSinCluster_0.1.24.zip",
+              "size": 2799100
+            },
+            "win": {
+              "name": "IterativeSinCluster_0.1.24.zip",
+              "size": 2799100
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/cubic-pad-synth": {
+      "id": "ryukau/vstplugins/cubic-pad-synth",
+      "license": "gpl-3.0",
+      "version": "0.1.23",
+      "versions": {
+        "0.1.23": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "CubicPadSynth",
+          "description": "CubicPadSynth is a wavetable synthesizer which uses PADsynth algorithm to generate oscillator tables. Cubic interpolation is used to get smooth sound even at inaudible low frequency range. LFO waveform can be directly drawn.",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "0.1.23",
+          "id": "cubic-pad-synth",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "CubicPadSynth.flac",
+              "size": 613476
+            },
+            "image": {
+              "name": "CubicPadSynth.png",
+              "size": 59111
+            },
+            "linux": {
+              "name": "CubicPadSynth_0.1.23.zip",
+              "size": 6315726
+            },
+            "mac": {
+              "name": "CubicPadSynth_0.1.23.zip",
+              "size": 6315726
+            },
+            "win": {
+              "name": "CubicPadSynth_0.1.23.zip",
+              "size": 6315726
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/colliding-comb-synth": {
+      "id": "ryukau/vstplugins/colliding-comb-synth",
+      "license": "gpl-3.0",
+      "version": "0.1.13",
+      "versions": {
+        "0.1.13": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "CollidingCombSynth",
+          "description": "CollidingCombSynth is an experimental synthesizer which sounds like bowed string. Equipped with 24 Karplus-Strong string models which collide to each other. Tuning of pitch is possible, but difficult. So mostly suitable for sound effects.",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "0.1.13",
+          "id": "colliding-comb-synth",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "CollidingCombSynth.flac",
+              "size": 1005341
+            },
+            "image": {
+              "name": "CollidingCombSynth.png",
+              "size": 64026
+            },
+            "linux": {
+              "name": "CollidingCombSynth_0.1.13.zip",
+              "size": 2825504
+            },
+            "mac": {
+              "name": "CollidingCombSynth_0.1.13.zip",
+              "size": 2825504
+            },
+            "win": {
+              "name": "CollidingCombSynth_0.1.13.zip",
+              "size": 2825504
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/trapezoid-synth": {
+      "id": "ryukau/vstplugins/trapezoid-synth",
+      "license": "gpl-3.0",
+      "version": "0.1.23",
+      "versions": {
+        "0.1.23": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "TrapezoidSynth",
+          "description": "TrapezoidSynth is a monophonic synthesizer equipped with 2 trapezoid oscillator. Trapezoid oscillator is based on PTR (Polynomial Transition Regions) and it has a drawback that increasing noise at high frequency. Therefore 8 times oversampled. 2 pitch shifters are added to make some chord.",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "0.1.23",
+          "id": "trapezoid-synth",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "TrapezoidSynth.flac",
+              "size": 711407
+            },
+            "image": {
+              "name": "TrapezoidSynth.png",
+              "size": 62651
+            },
+            "linux": {
+              "name": "TrapezoidSynth_0.1.23.zip",
+              "size": 2689044
+            },
+            "mac": {
+              "name": "TrapezoidSynth_0.1.23.zip",
+              "size": 2689044
+            },
+            "win": {
+              "name": "TrapezoidSynth_0.1.23.zip",
+              "size": 2689044
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/wave-cymbal": {
+      "id": "ryukau/vstplugins/wave-cymbal",
+      "license": "gpl-3.0",
+      "version": "0.1.23",
+      "versions": {
+        "0.1.23": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "WaveCymbal",
+          "description": "WaveCymbal is an attempt to make a cymbal synthesizer with banded wave-guide model. The result is more like dragging bunch of empty cans or thin metal plate on asphalt rather than cymbal.",
+          "tags": [
+            "Fx",
+            "Instrument"
+          ],
+          "version": "0.1.23",
+          "id": "wave-cymbal",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "WaveCymbal.flac",
+              "size": 1805740
+            },
+            "image": {
+              "name": "WaveCymbal.png",
+              "size": 36135
+            },
+            "linux": {
+              "name": "WaveCymbal_0.1.23.zip",
+              "size": 2656968
+            },
+            "mac": {
+              "name": "WaveCymbal_0.1.23.zip",
+              "size": 2656968
+            },
+            "win": {
+              "name": "WaveCymbal_0.1.23.zip",
+              "size": 2656968
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/enveloped-sine": {
+      "id": "ryukau/vstplugins/enveloped-sine",
+      "license": "gpl-3.0",
+      "version": "0.1.22",
+      "versions": {
+        "0.1.22": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "EnvelopedSine",
+          "description": "EnvelopedSine is an additive synthesizer that computes 64 sine waves for each note. Difference to IterativeSinCluster is that this synth has AD envelope and saturator for each oscillator. EnvelopedSine is better suited for percussive sounds.",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "0.1.22",
+          "id": "enveloped-sine",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "EnvelopedSine.flac",
+              "size": 1413976
+            },
+            "image": {
+              "name": "EnvelopedSine.png",
+              "size": 61185
+            },
+            "linux": {
+              "name": "EnvelopedSine_0.1.22.zip",
+              "size": 2871349
+            },
+            "mac": {
+              "name": "EnvelopedSine_0.1.22.zip",
+              "size": 2871349
+            },
+            "win": {
+              "name": "EnvelopedSine_0.1.22.zip",
+              "size": 2871349
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/sync-saw-synth": {
+      "id": "ryukau/vstplugins/sync-saw-synth",
+      "license": "gpl-3.0",
+      "version": "0.1.26",
+      "versions": {
+        "0.1.26": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "SyncSawSynth",
+          "description": "SyncSawSynth is a 32 voice polyphonic synthesizer using up to 10th order PTR sawtooth oscillator. Just a basic synthesizer but very easy to make a noise similar to low battery sound of some toys.",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "0.1.26",
+          "id": "sync-saw-synth",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "SyncSawSynth.flac",
+              "size": 329666
+            },
+            "image": {
+              "name": "SyncSawSynth.png",
+              "size": 55212
+            },
+            "linux": {
+              "name": "SyncSawSynth_0.1.26.zip",
+              "size": 2683547
+            },
+            "mac": {
+              "name": "SyncSawSynth_0.1.26.zip",
+              "size": 2683547
+            },
+            "win": {
+              "name": "SyncSawSynth_0.1.26.zip",
+              "size": 2683547
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/light-pad-synth": {
+      "id": "ryukau/vstplugins/light-pad-synth",
+      "license": "gpl-3.0",
+      "version": "0.1.21",
+      "versions": {
+        "0.1.21": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "LightPadSynth",
+          "description": "LightPadSynth is a lightweight version of CubicPadSynth. For efficiency, interpolation is changed to linear. Also pitch modulation is omitted. Instead, a delay is added for each voice.",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "0.1.21",
+          "id": "light-pad-synth",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "LightPadSynth.flac",
+              "size": 951405
+            },
+            "image": {
+              "name": "LightPadSynth.png",
+              "size": 57697
+            },
+            "linux": {
+              "name": "LightPadSynth_0.1.21.zip",
+              "size": 3055283
+            },
+            "mac": {
+              "name": "LightPadSynth_0.1.21.zip",
+              "size": 3055283
+            },
+            "win": {
+              "name": "LightPadSynth_0.1.21.zip",
+              "size": 3055283
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "ryukau/vstplugins/f-d-n-cymbal": {
+      "id": "ryukau/vstplugins/f-d-n-cymbal",
+      "license": "gpl-3.0",
+      "version": "0.2.16",
+      "versions": {
+        "0.2.16": {
+          "author": "Takamitsu Endo",
+          "homepage": "https://ryukau.github.io/VSTPlugins/",
+          "name": "FDNCymbal",
+          "description": "FDNCymbal is a cymbal sound synthesizer. It can also be used as an effect. Unlike the name, most of metallic texture comes from Schroeder allpass section rather than FDN (feedback delay network). FDN section makes nice impact sound when `FDN.Time` is short. Tremolo is added to simulate wobbling of cymbal.",
+          "tags": [
+            "Fx",
+            "Instrument"
+          ],
+          "version": "0.2.16",
+          "id": "f-d-n-cymbal",
+          "date": "2023-03-03T14:49:28.706Z",
+          "files": {
+            "audio": {
+              "name": "FDNCymbal.flac",
+              "size": 1546996
+            },
+            "image": {
+              "name": "FDNCymbal.png",
+              "size": 45637
+            },
+            "linux": {
+              "name": "FDNCymbal_0.2.16.zip",
+              "size": 2708103
+            },
+            "mac": {
+              "name": "FDNCymbal_0.2.16.zip",
+              "size": 2708103
+            },
+            "win": {
+              "name": "FDNCymbal_0.2.16.zip",
+              "size": 2708103
+            }
+          },
+          "release": "UhhyouPlugins0.53.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "ryukau/vstplugins"
+        }
+      }
+    },
+    "sjoerdvankreel/firefly-synth/io.github.sjoerdvankreel.firefly_synth": {
+      "id": "sjoerdvankreel/firefly-synth/io.github.sjoerdvankreel.firefly_synth",
+      "license": "gpl-3.0",
+      "version": "1.9.5",
+      "versions": {
+        "1.9.5": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.9.5",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 576102
+            },
+            "linux": {
+              "name": "firefly_synth_1.9.5_linux_vst3_instrument.zip",
+              "size": 5915021
+            },
+            "mac": {
+              "name": "firefly_synth_1.9.5_mac_vst3_instrument.zip",
+              "size": 9672038
+            },
+            "win": {
+              "name": "firefly_synth_1.9.5_windows_vst3_instrument.zip",
+              "size": 2796328
+            }
+          },
+          "release": "v1.9.5",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.9.4": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.9.4",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 591635
+            },
+            "mac": {
+              "name": "firefly_synth_1.9.4_mac_vst3_instrument.zip",
+              "size": 9576067
+            },
+            "linux": {
+              "name": "firefly_synth_1.9.4_linux_vst3_instrument.zip",
+              "size": 5869059
+            },
+            "win": {
+              "name": "firefly_synth_1.9.4_windows_vst3_instrument.zip",
+              "size": 3432789
+            }
+          },
+          "release": "v1.9.4",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.9.3": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.9.3",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 451443
+            },
+            "win": {
+              "name": "firefly_synth_1.9.3_windows_vst3_instrument.zip",
+              "size": 3364973
+            },
+            "mac": {
+              "name": "firefly_synth_1.9.3_mac_vst3_instrument.zip",
+              "size": 9505869
+            },
+            "linux": {
+              "name": "firefly_synth_1.9.3_linux_vst3_instrument.zip",
+              "size": 5794628
+            }
+          },
+          "release": "v1.9.3",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.9.2": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.9.2",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 458522
+            },
+            "mac": {
+              "name": "firefly_synth_1.9.2_mac_vst3_instrument.zip",
+              "size": 9574316
+            },
+            "linux": {
+              "name": "firefly_synth_1.9.2_linux_vst3_instrument.zip",
+              "size": 5821865
+            },
+            "win": {
+              "name": "firefly_synth_1.9.2_windows_vst3_instrument.zip",
+              "size": 3386864
+            }
+          },
+          "release": "v1.9.2",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.9.1": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.9.1",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 453316
+            },
+            "mac": {
+              "name": "firefly_synth_1.9.1_mac_vst3_instrument.zip",
+              "size": 9171013
+            },
+            "linux": {
+              "name": "firefly_synth_1.9.1_linux_vst3_instrument.zip",
+              "size": 6193681
+            },
+            "win": {
+              "name": "firefly_synth_1.9.1_windows_vst3_instrument.zip",
+              "size": 3339945
+            }
+          },
+          "release": "v1.9.1",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.9.0": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.9.0",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 472480
+            },
+            "win": {
+              "name": "firefly_synth_1.9.0_windows_vst3_instrument.zip",
+              "size": 2659181
+            },
+            "mac": {
+              "name": "firefly_synth_1.9.0_mac_vst3_instrument.zip",
+              "size": 9151378
+            },
+            "linux": {
+              "name": "firefly_synth_1.9.0_linux_vst3_instrument.zip",
+              "size": 5531057
+            }
+          },
+          "release": "v1.9.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.9": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.9",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 469727
+            },
+            "mac": {
+              "name": "firefly_synth_1.8.9_mac_vst3_instrument.zip",
+              "size": 9166480
+            },
+            "linux": {
+              "name": "firefly_synth_1.8.9_linux_vst3_instrument.zip",
+              "size": 6187642
+            },
+            "win": {
+              "name": "firefly_synth_1.8.9_windows_vst3_instrument.zip",
+              "size": 2667096
+            }
+          },
+          "release": "v1.8.9",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.8": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.8",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 446430
+            },
+            "mac": {
+              "name": "firefly_synth_1.8.8_mac_vst3_instrument.zip",
+              "size": 9628680
+            },
+            "linux": {
+              "name": "firefly_synth_1.8.8_linux_vst3_instrument.zip",
+              "size": 6000830
+            },
+            "win": {
+              "name": "firefly_synth_1.8.8_windows_vst3_instrument.zip",
+              "size": 3143495
+            }
+          },
+          "release": "v1.8.8",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.7": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.7",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 458643
+            },
+            "mac": {
+              "name": "firefly_synth_1.8.7_mac_vst3_instrument.zip",
+              "size": 9221575
+            },
+            "linux": {
+              "name": "firefly_synth_1.8.7_linux_vst3_instrument.zip",
+              "size": 5626988
+            },
+            "win": {
+              "name": "firefly_synth_1.8.7_windows_vst3_instrument.zip",
+              "size": 3091781
+            }
+          },
+          "release": "v1.8.7",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.6": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.6",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 458643
+            },
+            "mac": {
+              "name": "firefly_synth_1.8.6_mac_vst3_instrument.zip",
+              "size": 9212994
+            },
+            "linux": {
+              "name": "firefly_synth_1.8.6_linux_vst3_instrument.zip",
+              "size": 5621289
+            },
+            "win": {
+              "name": "firefly_synth_1.8.6_windows_vst3_instrument.zip",
+              "size": 3090530
+            }
+          },
+          "release": "v1.8.6",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.5": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.5",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 458643
+            },
+            "mac": {
+              "name": "firefly_synth_1.8.5_mac_vst3_instrument.zip",
+              "size": 8978364
+            },
+            "linux": {
+              "name": "firefly_synth_1.8.5_linux_vst3_instrument.zip",
+              "size": 5499091
+            },
+            "win": {
+              "name": "firefly_synth_1.8.5_windows_vst3_instrument.zip",
+              "size": 2985407
+            }
+          },
+          "release": "v1.8.5",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.3": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.3",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "mac": {
+              "name": "firefly_synth_1.8.3_mac_vst3_instrument.zip",
+              "size": 8902151
+            },
+            "linux": {
+              "name": "firefly_synth_1.8.3_linux_vst3_instrument.zip",
+              "size": 5491742
+            },
+            "win": {
+              "name": "firefly_synth_1.8.3_windows_vst3_instrument.zip",
+              "size": 2970166
+            },
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 502217
+            }
+          },
+          "release": "v1.8.3",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.2": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.2",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "mac": {
+              "name": "firefly_synth_1.8.2_mac_vst3_instrument.zip",
+              "size": 8871035
+            },
+            "linux": {
+              "name": "firefly_synth_1.8.2_linux_vst3_instrument.zip",
+              "size": 5481748
+            },
+            "win": {
+              "name": "firefly_synth_1.8.2_windows_vst3_instrument.zip",
+              "size": 2959608
+            },
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 438535
+            }
+          },
+          "release": "v1.8.2",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.1": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.1",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "mac": {
+              "name": "firefly_synth_1.8.1_mac_vst3_instrument.zip",
+              "size": 8791294
+            },
+            "linux": {
+              "name": "firefly_synth_1.8.1_linux_vst3_instrument.zip",
+              "size": 5475144
+            },
+            "win": {
+              "name": "firefly_synth_1.8.1_windows_vst3_instrument.zip",
+              "size": 2956941
+            },
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 438535
+            }
+          },
+          "release": "v1.8.1",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.8.0": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.8.0",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "linux": {
+              "name": "firefly_synth_1.8.0_linux_vst3_instrument.zip",
+              "size": 5972016
+            },
+            "win": {
+              "name": "firefly_synth_1.8.0_windows_vst3_instrument.zip",
+              "size": 3473444
+            },
+            "mac": {
+              "name": "firefly_synth_1.8.0_mac_vst3_instrument.zip",
+              "size": 8717242
+            },
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 442533
+            }
+          },
+          "release": "v1.8.0",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.7.8": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.7.8",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 784884
+            },
+            "mac": {
+              "name": "firefly_synth_1.7.8_mac_vst3_instrument.zip",
+              "size": 8549464
+            },
+            "win": {
+              "name": "firefly_synth_1.7.8_windows_vst3_instrument.zip",
+              "size": 3087348
+            },
+            "linux": {
+              "name": "firefly_synth_1.7.8_linux_vst3_instrument.zip",
+              "size": 5787856
+            }
+          },
+          "release": "v1.7.8",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        },
+        "1.7.7": {
+          "author": "Sjoerd van Kreel",
+          "homepage": "https://github.com/sjoerdvankreel/firefly-synth",
+          "name": "Firefly Synth",
+          "description": "Firefly Synth",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "version": "1.7.7",
+          "id": "io.github.sjoerdvankreel.firefly_synth",
+          "date": "2024-06-03T17:25:12.081Z",
+          "files": {
+            "win": {
+              "name": "firefly_synth_1.7.7_windows_vst3_instrument.zip",
+              "size": 3087348
+            },
+            "linux": {
+              "name": "firefly_synth_1.7.7_linux_vst3_instrument.zip",
+              "size": 5787856
+            },
+            "mac": {
+              "name": "firefly_synth_1.7.7_mac_vst3_instrument.zip",
+              "size": 8549464
+            },
+            "audio": {
+              "name": "studiorack.flac",
+              "size": 826259
+            },
+            "image": {
+              "name": "studiorack.jpg",
+              "size": 784884
+            }
+          },
+          "release": "v1.7.7",
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://choosealicense.com/licenses/gpl-3.0",
+            "same": true
+          },
+          "repo": "sjoerdvankreel/firefly-synth"
+        }
+      }
+    },
+    "freepats/glass/glasses-of-water": {
+      "id": "freepats/glass/glasses-of-water",
+      "license": "cc0-1.0",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/glass",
+          "name": "Glasses Of Water",
+          "description": "Musical instrument made with glasses of water, recorded with an AKG Perception 120 microphone.",
+          "tags": [
+            "Instrument",
+            "Orchestra",
+            "Glass",
+            "sfz"
+          ],
+          "version": "1.0.0",
+          "id": "glasses-of-water",
+          "date": "2019-12-27T07:00:00.000Z",
+          "files": {
+            "audio": {
+              "name": "Glass-20191227.flac",
+              "size": 67037
+            },
+            "image": {
+              "name": "Glass-20191227.jpg",
+              "size": 125355
+            },
+            "linux": {
+              "name": "Glass-20191227.zip",
+              "size": 10610381
+            },
+            "mac": {
+              "name": "glasses-of-water.zip",
+              "size": 10610381
+            },
+            "win": {
+              "name": "Glass-20191227.zip",
+              "size": 10610381
+            }
+          },
+          "release": "v1.0.0",
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://choosealicense.com/licenses/cc0-1.0",
+            "same": false
+          },
+          "repo": "freepats/glass"
+        }
+      }
+    },
+    "freepats/upright-piano-kw/upright-piano-kw": {
+      "id": "freepats/upright-piano-kw/upright-piano-kw",
+      "license": "cc0-1.0",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/upright-piano-KW",
+          "name": "Upright Piano KW",
+          "description": "Kawai upright piano, recorded in a living room using a Zoom H1 portable recorder mounted on a tripod in front of the piano.",
+          "tags": [
+            "Instrument",
+            "Keys",
+            "Piano",
+            "sfz"
+          ],
+          "version": "1.0.0",
+          "id": "upright-piano-kw",
+          "date": "2022-02-21T07:00:00.000Z",
+          "files": {
+            "audio": {
+              "name": "UprightPianoKW-20220221.flac",
+              "size": 64803
+            },
+            "image": {
+              "name": "UprightPianoKW-20220221.jpg",
+              "size": 87924
+            },
+            "linux": {
+              "name": "UprightPianoKW-20220221.zip",
+              "size": 32365885
+            },
+            "mac": {
+              "name": "UprightPianoKW-20220221.zip",
+              "size": 32365885
+            },
+            "win": {
+              "name": "UprightPianoKW-20220221.zip",
+              "size": 32365885
+            }
+          },
+          "release": "v1.0.0",
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://choosealicense.com/licenses/cc0-1.0",
+            "same": false
+          },
+          "repo": "freepats/upright-piano-kw"
+        }
+      }
+    },
+    "freepats/spanish-classical-guitar/spanish-classical-guitar": {
+      "id": "freepats/spanish-classical-guitar/spanish-classical-guitar",
+      "license": "cc0-1.0",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/spanish-classical-guitar",
+          "name": "Spanish Classical Guitar",
+          "description": "Spanish classical guitar with nylon strings, recorded with an AKG Perception 120 microphone.",
+          "tags": [
+            "Instrument",
+            "Guitar",
+            "Classical",
+            "sfz"
+          ],
+          "version": "1.0.0",
+          "id": "spanish-classical-guitar",
+          "date": "2019-06-18T07:00:00.000Z",
+          "files": {
+            "audio": {
+              "name": "SpanishClassicalGuitar-20190618.flac",
+              "size": 75338
+            },
+            "image": {
+              "name": "SpanishClassicalGuitar-20190618.jpg",
+              "size": 147385
+            },
+            "linux": {
+              "name": "SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            },
+            "mac": {
+              "name": "SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            },
+            "win": {
+              "name": "SpanishClassicalGuitar-20190618.zip",
+              "size": 4944097
+            }
+          },
+          "release": "v1.0.0",
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://choosealicense.com/licenses/cc0-1.0",
+            "same": false
+          },
+          "repo": "freepats/spanish-classical-guitar"
+        }
+      }
+    },
+    "freepats/synthesizer-percussion/synthesizer-percussion": {
+      "id": "freepats/synthesizer-percussion/synthesizer-percussion",
+      "license": "cc0-1.0",
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "author": "Freepats",
+          "homepage": "https://github.com/freepats/synthesizer-percussion",
+          "name": "Synthesizer Percussion",
+          "description": "Drumkit sounds commonly used in vintage electronic music made with analog synthesizers.",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "Electro",
+            "sfz"
+          ],
+          "version": "1.0.0",
+          "id": "synthesizer-percussion",
+          "date": "2022-07-18T07:00:00.000Z",
+          "files": {
+            "audio": {
+              "name": "SynthesizerPercussion-20220718.flac",
+              "size": 135815
+            },
+            "image": {
+              "name": "SynthesizerPercussion-20220718.jpg",
+              "size": 154466
+            },
+            "linux": {
+              "name": "SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            },
+            "mac": {
+              "name": "SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            },
+            "win": {
+              "name": "SynthesizerPercussion-20220718.zip",
+              "size": 1663242
+            }
+          },
+          "release": "v1.0.0",
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://choosealicense.com/licenses/cc0-1.0",
+            "same": false
+          },
+          "repo": "freepats/synthesizer-percussion"
+        }
+      }
+    }
+  }
+}
