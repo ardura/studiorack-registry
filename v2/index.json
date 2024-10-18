@@ -4994,23 +4994,23 @@
           ],
           "files": {
             "audio": {
-              "name": "https://studiorack.github.io/studiorack-registry/plugins/ardura/actuate/actuate.flac",
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/ardura/actuate/actuate.flac",
               "size": 3251736
             },
             "image": {
-              "name": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Subhoofer/subhoofer.jpg",
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Subhoofer/subhoofer.jpg",
               "size": 60446
             },
             "linux": {
-              "name": "https://github.com/ardura/Subhoofer/releases/download/v2.2.2/Subhoofer_v222_Linux.zip",
+              "url": "https://github.com/ardura/Subhoofer/releases/download/v2.2.2/Subhoofer_v222_Linux.zip",
               "size": 5916842
             },
             "mac": {
-              "name": "https://github.com/ardura/Subhoofer/releases/download/v2.2.2/Subhoofer_v222_MacOS.zip",
+              "url": "https://github.com/ardura/Subhoofer/releases/download/v2.2.2/Subhoofer_v222_MacOS.zip",
               "size": 4009494
             },
             "win": {
-              "name": "https://github.com/ardura/Subhoofer/releases/download/v2.2.2/Subhoofer_v222_Windows.zip",
+              "url": "https://github.com/ardura/Subhoofer/releases/download/v2.2.2/Subhoofer_v222_Windows.zip",
               "size": 3456424
             }
           }
@@ -5028,19 +5028,19 @@
           ],
           "files": {
             "image": {
-              "name": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Subhoofer/subhoofer.jpg",
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Subhoofer/subhoofer.jpg",
               "size": 60446
             },
             "linux": {
-              "name": "https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_Linux.zip",
+              "url": "https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_Linux.zip",
               "size": 5904422
             },
             "mac": {
-              "name": "https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_MacOS.zip",
+              "url": "https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_MacOS.zip",
               "size": 3895684
             },
             "win": {
-              "name": "https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_Windows.zip",
+              "url": "https://github.com/ardura/Subhoofer/releases/download/v2.2.0/Subhoofer_v221_Windows.zip",
               "size": 3334010
             }
           }
@@ -5063,19 +5063,19 @@
           ],
           "files": {
             "image": {
-              "name": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Scrollscope/scrollscope.jpg",
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Scrollscope/scrollscope.jpg",
               "size": 109513
             },
             "linux": {
-              "name": "https://github.com/ardura/Scrollscope/releases/download/v1.4.1/Scrollscope_v141_linux_build.zip",
+              "url": "https://github.com/ardura/Scrollscope/releases/download/v1.4.1/Scrollscope_v141_linux_build.zip",
               "size": 7528497
             },
             "mac": {
-              "name": "https://github.com/ardura/Scrollscope/releases/download/v1.4.1/Scrollscope_v141_macos_build.zip",
+              "url": "https://github.com/ardura/Scrollscope/releases/download/v1.4.1/Scrollscope_v141_macos_build.zip",
               "size": 6925944
             },
             "win": {
-              "name": "https://github.com/ardura/Scrollscope/releases/download/v1.4.1/Scrollscope_v141_windows_build.zip",
+              "url": "https://github.com/ardura/Scrollscope/releases/download/v1.4.1/Scrollscope_v141_windows_build.zip",
               "size": 6749313
             }
           }
@@ -5093,19 +5093,19 @@
           ],
           "files": {
             "image": {
-              "name": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Scrollscope/scrollscope.jpg",
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Scrollscope/scrollscope.jpg",
               "size": 109513
             },
             "linux": {
-              "name": "https://github.com/ardura/Scrollscope/releases/download/v1.4.0/Scrollscope_v140_Linux.zip",
+              "url": "https://github.com/ardura/Scrollscope/releases/download/v1.4.0/Scrollscope_v140_Linux.zip",
               "size": 7417559
             },
             "mac": {
-              "name": "https://github.com/ardura/Scrollscope/releases/download/v1.4.0/Scrollscope_v140_MacOS12.zip",
+              "url": "https://github.com/ardura/Scrollscope/releases/download/v1.4.0/Scrollscope_v140_MacOS12.zip",
               "size": 6896897
             },
             "win": {
-              "name": "https://github.com/ardura/Scrollscope/releases/download/v1.4.0/Scrollscope_v140_Windows.zip",
+              "url": "https://github.com/ardura/Scrollscope/releases/download/v1.4.0/Scrollscope_v140_Windows.zip",
               "size": 6569340
             }
           }
@@ -5128,19 +5128,19 @@
           ],
           "files": {
             "image": {
-              "name": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Interleaf/interleaf.jpg",
+              "url": "https://studiorack.github.io/studiorack-registry/plugins/ardura/Interleaf/interleaf.jpg",
               "size": 55356
             },
             "linux": {
-              "name": "https://github.com/ardura/Interleaf/releases/download/v1.0/linux_build.zip",
+              "url": "https://github.com/ardura/Interleaf/releases/download/v1.0/linux_build.zip",
               "size": 3822972
             },
             "mac": {
-              "name": "https://github.com/ardura/Interleaf/releases/download/v1.0/macos_build.zip",
+              "url": "https://github.com/ardura/Interleaf/releases/download/v1.0/macos_build.zip",
               "size": 3481740
             },
             "win": {
-              "name": "https://github.com/ardura/Interleaf/releases/download/v1.0/windows_build.zip",
+              "url": "https://github.com/ardura/Interleaf/releases/download/v1.0/windows_build.zip",
               "size": 3194614
             }
           }
